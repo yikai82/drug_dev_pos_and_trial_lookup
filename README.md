@@ -1,5 +1,8 @@
+![Portfolio Project](https://img.shields.io/badge/Portfolio_Project-Biotech__PoS__Model-blueviolet?style=for-the-badge)
+![Built with ChatGPT](https://img.shields.io/badge/Built%20with-ChatGPT-4B8BBE?style=for-the-badge&logo=openai&logoColor=white)
+
 # drug_dev_pos_and_trial_lookup
-A tool to look up the drug development success rate and the National Clinical Trial (NTC) number in the US (ClinicalTrials.gov) using Python 3
+A little tool to look up the drug development success rate and the National Clinical Trial (NTC) number in the US (ClinicalTrials.gov) using Python 3
 
 # Drug Development Possibility Estimation & Clinical Trial Lookup Tool
 
@@ -45,7 +48,7 @@ This project is a portfolio-ready Jupyter Notebook designed to support biotech i
 ### 📬 Author
 
 Created by YI-KAI SU  
-🔗 [LinkedIn](Add Link) • [GitHub](https://github.com/yourusername)
+🔗 [LinkedIn](https://www.linkedin.com/in/yi-kai-su-ai-r-data/) • [GitHub](https://github.com/yikai82)
 
 ---
 
