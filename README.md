@@ -4,7 +4,7 @@
 # drug_dev_pos_and_trial_lookup
 A little tool to look up the drug development success rate and the National Clinical Trial (NTC) number in the US (ClinicalTrials.gov) using Python 3
 
-**How to use it? Just open it with Jupyter Notebook
+**How to use it? Just open it with Jupyter Notebook:)**
 
 # Drug Development Possibility Estimation & Clinical Trial Lookup Tool
 
